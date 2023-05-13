@@ -1,1 +1,1 @@
-This directory contains all brain tummor images that contain tumor
+This directory contains all brain images that contain tumor
